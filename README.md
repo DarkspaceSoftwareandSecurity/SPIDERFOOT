@@ -1,4 +1,13 @@
 Ethical Hacking Educational Tool Documentation
+
+
+
+
+![PNG](https://github.com/user-attachments/assets/254e9207-2ef5-4927-8dfb-751633071571)
+
+
+
+
 Introduction
 This script provides an educational tool for ethical hacking, enabling users to perform various tasks such as port scanning, file encryption and decryption, XDR analysis, and remote code execution (RCE). It utilizes the Tkinter library to create a graphical user interface (GUI).
 Installation
